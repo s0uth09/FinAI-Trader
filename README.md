@@ -6,7 +6,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](docker-compose.yml)  
-[![Tests](https://github.com/yourusername/fin-ai-trader/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/yourusername/fin-ai-trader/actions)
+[![Tests](https://github.com/s0uth09/fin-ai-trader/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/s0uth09/fin-ai-trader/actions)
 
 ---
 
