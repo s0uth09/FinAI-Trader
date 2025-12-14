@@ -1,0 +1,4 @@
+version: '3.8'
+services:
+  # Alias to docker-compose.prod.yml – use 'docker-compose up' for prod
+  # Include services from docker-compose.prod.yml
